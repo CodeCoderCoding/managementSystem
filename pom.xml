@@ -161,21 +161,21 @@
 
             <!-- 核心模块-->
             <dependency>
-                <groupId>com.supremepole</groupId>
+                <groupId>com.supremepole.framework</groupId>
                 <artifactId>framework</artifactId>
                 <version>${version}</version>
             </dependency>
 
             <!-- 系统模块-->
             <dependency>
-                <groupId>com.supremepole</groupId>
+                <groupId>com.supremepole.system</groupId>
                 <artifactId>system</artifactId>
                 <version>${version}</version>
             </dependency>
 
             <!-- 通用工具-->
             <dependency>
-                <groupId>com.supremepole</groupId>
+                <groupId>com.supremepole.common</groupId>
                 <artifactId>common</artifactId>
                 <version>${version}</version>
             </dependency>
