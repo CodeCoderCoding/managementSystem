@@ -1,6 +1,7 @@
 package com.supremepole.exception.user;
 
 /**
+ * 用户密码不正确或不符合规范异常类
  * @author supremepole
  */
 public class UserPasswordNotMatchException extends UserException{

@@ -11,6 +11,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * 部门表 sys_dept
  * @author supremepole
  */
 public class SysDept extends BaseEntity{

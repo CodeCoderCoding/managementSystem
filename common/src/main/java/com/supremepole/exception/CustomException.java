@@ -1,6 +1,7 @@
 package com.supremepole.exception;
 
 /**
+ * 自定义异常
  * @author supremepole
  */
 public class CustomException extends RuntimeException{

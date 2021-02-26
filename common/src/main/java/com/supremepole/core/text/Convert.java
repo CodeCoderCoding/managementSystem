@@ -9,6 +9,7 @@ import java.util.Set;
 import com.supremepole.utils.StringUtils;
 
 /**
+ * 类型转换器
  * @author supremepole
  */
 public class Convert {

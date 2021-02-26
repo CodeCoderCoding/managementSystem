@@ -10,6 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * 菜单权限表 sys_menu
  * @author supremepole
  */
 public class SysMenu extends BaseEntity{

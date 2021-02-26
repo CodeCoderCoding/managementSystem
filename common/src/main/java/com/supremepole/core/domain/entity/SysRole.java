@@ -10,6 +10,7 @@ import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Size;
 
 /**
+ * 角色表 sys_role
  * @author supremepole
  */
 public class SysRole extends BaseEntity{

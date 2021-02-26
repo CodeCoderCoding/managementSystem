@@ -3,6 +3,7 @@ package com.supremepole.annotation;
 import java.lang.annotation.*;
 
 /**
+ * 数据权限过滤注解
  * @author supremepole
  */
 @Target(ElementType.METHOD)

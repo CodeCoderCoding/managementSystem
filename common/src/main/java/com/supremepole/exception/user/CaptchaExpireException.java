@@ -1,6 +1,7 @@
 package com.supremepole.exception.user;
 
 /**
+ * 验证码失效异常类
  * @author supremepole
  */
 public class CaptchaExpireException extends UserException{

@@ -8,6 +8,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
+ * Entity基类
  * @author supremepole
  */
 public class BaseEntity implements Serializable {

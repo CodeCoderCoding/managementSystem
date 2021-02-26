@@ -1,6 +1,7 @@
 package com.supremepole.exception.file;
 
 /**
+ * 文件名大小限制异常类
  * @author supremepole
  */
 public class FileSizeLimitExceededException extends FileException{

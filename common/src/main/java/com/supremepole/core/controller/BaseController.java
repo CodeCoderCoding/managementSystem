@@ -20,6 +20,7 @@ import com.supremepole.core.domain.*;
 import com.supremepole.utils.*;
 
 /**
+ * web层通用数据处理
  * @author supremepole
  */
 public class BaseController {
