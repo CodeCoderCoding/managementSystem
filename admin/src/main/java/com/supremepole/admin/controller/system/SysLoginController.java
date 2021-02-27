@@ -1,4 +1,4 @@
-package com.supremepole.system;
+package com.supremepole.admin.controller.system;
 
 /**
  * @author supremepole

@@ -3,10 +3,15 @@ package com.supremepole.common.annotation;
 import com.supremepole.common.enums.BusinessType;
 import com.supremepole.common.enums.OperatorType;
 
+import java.lang.annotation.*;
+
 /**
  * 自定义操作日志记录注解
  * @author supremepole
  */
+@Target({ ElementType.PARAMETER, ElementType.METHOD })
+@Retention(RetentionPolicy.RUNTIME)
+@Documented
 public @interface Log {
     /**
      * 模块

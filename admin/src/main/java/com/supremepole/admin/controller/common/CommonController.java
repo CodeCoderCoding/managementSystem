@@ -1,4 +1,4 @@
-package com.supremepole.common;
+package com.supremepole.admin.controller.common;
 
 /**
  * 通用请求处理
